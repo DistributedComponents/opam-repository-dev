@@ -1,4 +1,4 @@
-# Distributed Components OPAM development respository
+# Distributed Components OPAM development repository
 
 All Distributed Components development OPAM packages live here.
 
