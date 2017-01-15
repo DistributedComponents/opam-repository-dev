@@ -1,0 +1,12 @@
+packages/verdi/verdi.dev/url 8b357729873309fd2733da44670a8e68 0o664
+packages/verdi/verdi.dev/opam 07ba1c6c07ebcd581719b31c705844a0 0o664
+packages/verdi/verdi.dev/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
+packages/verdi-runtime/verdi-runtime.dev/url 9cd3ed66f695896d07ffb4e458ab3aa0 0o664
+packages/verdi-runtime/verdi-runtime.dev/opam ab6e777ff7ae5bb3d7214c6a6dec996f 0o664
+packages/verdi-runtime/verdi-runtime.dev/descr 9ed193f31421ce0de276a40731dd3408 0o664
+packages/StructTact/StructTact.dev/url a77314932a103f542e73832b1e1f4224 0o664
+packages/StructTact/StructTact.dev/opam 0a2310fbfff03392a96b49921f546a25 0o664
+packages/StructTact/StructTact.dev/descr 8e46ee5fb8ceeb8df600042de530095f 0o664
+packages/InfSeqExt/InfSeqExt.dev/url 5b8786309feea04410dd9e4b782c0d91 0o664
+packages/InfSeqExt/InfSeqExt.dev/opam 0493710124e7487ea1d7ae31bf334568 0o664
+packages/InfSeqExt/InfSeqExt.dev/descr 53e9603e241385c48aa85d7da1aa2486 0o664
