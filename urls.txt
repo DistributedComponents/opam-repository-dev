@@ -7,6 +7,9 @@ packages/verdi-runtime/verdi-runtime.dev/descr 9ed193f31421ce0de276a40731dd3408 
 packages/disel/disel.dev/url 2ede3a232dbcc15d01a8b159e3dee9e7 0o664
 packages/disel/disel.dev/opam fd1ac4922b81e3496b1c15da3c39a186 0o664
 packages/disel/disel.dev/descr db565856bc58b0fbb2b815c201f20d94 0o664
+packages/cheerios/cheerios.dev/url 9c567d4925986a708c3bf92a94bf4e01 0o664
+packages/cheerios/cheerios.dev/opam bf450d48b66f41d1d5015854f8dc7661 0o664
+packages/cheerios/cheerios.dev/descr d136184bde3d4c57e260b25b59a5ddcd 0o664
 packages/StructTact/StructTact.dev/url a77314932a103f542e73832b1e1f4224 0o664
 packages/StructTact/StructTact.dev/opam 0a2310fbfff03392a96b49921f546a25 0o664
 packages/StructTact/StructTact.dev/descr 8e46ee5fb8ceeb8df600042de530095f 0o664
