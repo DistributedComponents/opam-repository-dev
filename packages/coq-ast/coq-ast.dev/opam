@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "coq-ast"
+version: "dev"
+maintainer: "palmskog@gmail.com"
+
+homepage: "https://github.com/uwplse/CoqAST"
+dev-repo: "https://github.com/uwplse/CoqAST.git"
+bug-reports: "https://github.com/uwplse/CoqAST/issues"
+license: "MIT"
+
+build: [ make "-j%{jobs}%" ]
+install: [ make "install" ]
+remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/PrintAST'" ]
+depends: [ 
+  "coq" { (>= "8.5" & < "8.6~") }
+]
+
+tags: [ "keyword:ast" ]
+authors: [ "Gregory Malecha <>" "Talia Ringer <>" "Karl Palmskog <>" ]
