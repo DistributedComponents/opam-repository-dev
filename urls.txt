@@ -10,6 +10,10 @@ packages/verdi-cheerios/verdi-cheerios.dev/descr f5ef193697140ac91e66cdc50c23009
 packages/disel/disel.dev/url 2ede3a232dbcc15d01a8b159e3dee9e7 0o664
 packages/disel/disel.dev/opam fd1ac4922b81e3496b1c15da3c39a186 0o664
 packages/disel/disel.dev/descr db565856bc58b0fbb2b815c201f20d94 0o664
+packages/coq/coq.8.5.3~depends/url f9e6f5c92a78224c57dc5d6a19fc1897 0o664
+packages/coq/coq.8.5.3~depends/opam 640464c923da585fa084efc11c2b81e1 0o664
+packages/coq/coq.8.5.3~depends/files/coq.install 26c6de669a7d377c2be8592c4e3c0260 0o664
+packages/coq/coq.8.5.3~depends/descr c3a9fed4b000f7138947158b86da3e06 0o664
 packages/coq-depends/coq-depends.dev/url 0de99ae4492af4bf22e587d09274b750 0o664
 packages/coq-depends/coq-depends.dev/opam f8cd46e5d6ffef359f05c1e8665fc829 0o664
 packages/coq-depends/coq-depends.dev/descr 5d1500531bd7d4689d52633b90b71fe4 0o664
