@@ -13,7 +13,7 @@ install: [ make "install" ]
 remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/VerdiCheerios'" ]
 depends: [ 
   "coq" {((>= "8.5" & < "8.6~") | (>= "8.6" & < "8.7~"))}
-  "coq-mathcomp-ssreflect" {>= "1.6"}
+  "coq-mathcomp-ssreflect" {>= "1.6" & < "1.7~"}
   "StructTact" {= "dev"}
   "cheerios" {= "dev"}
   "verdi" {= "dev"}
