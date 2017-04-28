@@ -1,5 +1,5 @@
 packages/verdi/verdi.dev/url 8b357729873309fd2733da44670a8e68 0o664
-packages/verdi/verdi.dev/opam 07ba1c6c07ebcd581719b31c705844a0 0o664
+packages/verdi/verdi.dev/opam 2a13137d300d3dcd5ca8698dc7d7a337 0o664
 packages/verdi/verdi.dev/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/verdi-runtime/verdi-runtime.dev/url 9cd3ed66f695896d07ffb4e458ab3aa0 0o664
 packages/verdi-runtime/verdi-runtime.dev/opam ab6e777ff7ae5bb3d7214c6a6dec996f 0o664
