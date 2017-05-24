@@ -4,6 +4,9 @@ packages/verdi/verdi.dev/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/verdi-runtime/verdi-runtime.dev/url 9cd3ed66f695896d07ffb4e458ab3aa0 0o664
 packages/verdi-runtime/verdi-runtime.dev/opam ab6e777ff7ae5bb3d7214c6a6dec996f 0o664
 packages/verdi-runtime/verdi-runtime.dev/descr 9ed193f31421ce0de276a40731dd3408 0o664
+packages/verdi-raft/verdi-raft.dev/url a7666d0ff6d09e560b276d77c69b39dd 0o664
+packages/verdi-raft/verdi-raft.dev/opam 9d59f8a080cdd3dc7f982506e6ac1313 0o664
+packages/verdi-raft/verdi-raft.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o664
 packages/verdi-cheerios/verdi-cheerios.dev/url 2371c4ed9c17094e753f204c97cac3da 0o664
 packages/verdi-cheerios/verdi-cheerios.dev/opam 6c52d01ad748a984dd54bbdc1ebca0de 0o664
 packages/verdi-cheerios/verdi-cheerios.dev/descr f5ef193697140ac91e66cdc50c23009e 0o664
