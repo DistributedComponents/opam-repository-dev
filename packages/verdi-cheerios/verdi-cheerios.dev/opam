@@ -1,5 +1,4 @@
 opam-version: "1.2"
-name: "verdi-cheerios"
 version: "dev"
 maintainer: "palmskog@gmail.com"
 
@@ -8,7 +7,10 @@ dev-repo: "https://github.com/DistributedComponents/verdi-cheerios.git"
 bug-reports: "https://github.com/DistributedComponents/verdi-cheerios/issues"
 license: "Proprietary"
 
-build: [ [ "./configure" ] [ make "-j%{jobs}%" ] ]
+build: [
+  [ "./configure" ]
+  [ make "-j%{jobs}%" ]
+]
 install: [ make "install" ]
 remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/VerdiCheerios'" ]
 depends: [ 
@@ -20,4 +22,7 @@ depends: [
 ]
 
 tags: [ "keyword:serialization" ]
-authors: [ "Keith Simmons <>" "Karl Palmskog <>" ]
+authors: [
+  "Keith Simmons <>"
+  "Karl Palmskog <>"
+]
