@@ -10,6 +10,10 @@ packages/verdi-raft/verdi-raft.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o664
 packages/verdi-cheerios/verdi-cheerios.dev/url 2371c4ed9c17094e753f204c97cac3da 0o664
 packages/verdi-cheerios/verdi-cheerios.dev/opam bb55d90855609d310944fc7e738621c4 0o664
 packages/verdi-cheerios/verdi-cheerios.dev/descr f5ef193697140ac91e66cdc50c23009e 0o664
+packages/ott/ott.dev/url f55c074136004e9fae0acb20a0c9cf24 0o664
+packages/ott/ott.dev/opam 540b649eab87c6b035e51e6aa27e0562 0o664
+packages/ott/ott.dev/files/ott.install 766de0a65a710e6c32271919bb406a31 0o664
+packages/ott/ott.dev/descr 4de170ffb616a422cf811619bc4a5884 0o664
 packages/coq/coq.8.5.3~depends/url f9e6f5c92a78224c57dc5d6a19fc1897 0o664
 packages/coq/coq.8.5.3~depends/opam 640464c923da585fa084efc11c2b81e1 0o664
 packages/coq/coq.8.5.3~depends/files/coq.install 26c6de669a7d377c2be8592c4e3c0260 0o664
