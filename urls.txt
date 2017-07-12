@@ -30,6 +30,10 @@ packages/coq-ast/coq-ast.dev/descr 43ff642e5e70532ea977de51c2fffb76 0o664
 packages/cheerios/cheerios.dev/url 9c567d4925986a708c3bf92a94bf4e01 0o664
 packages/cheerios/cheerios.dev/opam c913de55dc6d705d9183a56578a0f49c 0o664
 packages/cheerios/cheerios.dev/descr d136184bde3d4c57e260b25b59a5ddcd 0o664
+packages/cheerios-runtime/cheerios-runtime.dev/url 9c567d4925986a708c3bf92a94bf4e01 0o664
+packages/cheerios-runtime/cheerios-runtime.dev/opam d8573bf38216ae8dd430e9c33bed88eb 0o664
+packages/cheerios-runtime/cheerios-runtime.dev/files/cheerios-runtime.install d03d6f620769473a6e01a0dfcf573a86 0o664
+packages/cheerios-runtime/cheerios-runtime.dev/descr 0129e04c80e1f04b4e784c2aef36f74c 0o664
 packages/StructTact/StructTact.dev/url a77314932a103f542e73832b1e1f4224 0o664
 packages/StructTact/StructTact.dev/opam 2aadfd7e28957817ca65c1268f342d8d 0o664
 packages/StructTact/StructTact.dev/descr 8e46ee5fb8ceeb8df600042de530095f 0o664
