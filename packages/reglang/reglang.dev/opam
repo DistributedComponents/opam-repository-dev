@@ -3,7 +3,9 @@ version: "dev"
 maintainer: "palmskog@gmail.com"
 
 homepage: "https://www.ps.uni-saarland.de/extras/RLR-Coq/"
-license: "BSD"
+dev-repo: "https://github.com/palmskog/reglang.git"
+bug-reports: "https://github.com/palmskog/reglang/issues"
+license: "Proprietary"
 
 build: [
   [ "./configure" ]
