@@ -11,7 +11,7 @@ packages/verdi-cheerios/verdi-cheerios.dev/url 2371c4ed9c17094e753f204c97cac3da 
 packages/verdi-cheerios/verdi-cheerios.dev/opam bb55d90855609d310944fc7e738621c4 0o664
 packages/verdi-cheerios/verdi-cheerios.dev/descr f5ef193697140ac91e66cdc50c23009e 0o664
 packages/reglang/reglang.dev/url 7d3252c5672f648f1eec414398a83976 0o664
-packages/reglang/reglang.dev/opam 86f589ce3b557cb197f00e6f2e672beb 0o664
+packages/reglang/reglang.dev/opam f106d81bdbe833612cd092996136ec5c 0o664
 packages/reglang/reglang.dev/descr fd0ac860261214042d0f69498a3d6df7 0o664
 packages/ott/ott.dev/url f55c074136004e9fae0acb20a0c9cf24 0o664
 packages/ott/ott.dev/opam 540b649eab87c6b035e51e6aa27e0562 0o664
