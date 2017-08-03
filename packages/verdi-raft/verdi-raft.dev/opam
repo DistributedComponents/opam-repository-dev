@@ -17,6 +17,8 @@ depends: [
   "coq" {>= "8.6" & < "8.7~"}
   "verdi" {= "dev"}
   "StructTact" {= "dev"}
+  "cheerios" {= "dev"}
+  "verdi-cheerios" {= "dev"}
 ]
 
 tags: [
@@ -33,4 +35,5 @@ authors: [
   "Steve Anton <>"
   "Karl Palmskog <>"
   "Ryan Doenges <>"
+  "Justin Adsuara <>"
 ]
