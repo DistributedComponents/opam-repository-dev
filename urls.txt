@@ -31,7 +31,7 @@ packages/coq-ast/coq-ast.dev/url 15e084965f232ea6b56e724ce4e33025 0o664
 packages/coq-ast/coq-ast.dev/opam a1008ea3dbf20b12a5b32e2fe8b5961f 0o664
 packages/coq-ast/coq-ast.dev/descr 43ff642e5e70532ea977de51c2fffb76 0o664
 packages/cheerios/cheerios.dev/url 9c567d4925986a708c3bf92a94bf4e01 0o664
-packages/cheerios/cheerios.dev/opam 338238b4da602f61c034d75ad3e37ec4 0o664
+packages/cheerios/cheerios.dev/opam 5237cc3b6359c93109721e2bdfbb6beb 0o664
 packages/cheerios/cheerios.dev/descr d136184bde3d4c57e260b25b59a5ddcd 0o664
 packages/cheerios-runtime/cheerios-runtime.dev/url 9c567d4925986a708c3bf92a94bf4e01 0o664
 packages/cheerios-runtime/cheerios-runtime.dev/opam d8573bf38216ae8dd430e9c33bed88eb 0o664
