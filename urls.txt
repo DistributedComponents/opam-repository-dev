@@ -38,8 +38,8 @@ packages/cheerios-runtime/cheerios-runtime.dev/opam d8573bf38216ae8dd430e9c33bed
 packages/cheerios-runtime/cheerios-runtime.dev/files/cheerios-runtime.install d03d6f620769473a6e01a0dfcf573a86 0o664
 packages/cheerios-runtime/cheerios-runtime.dev/descr 0129e04c80e1f04b4e784c2aef36f74c 0o664
 packages/StructTact/StructTact.dev/url a77314932a103f542e73832b1e1f4224 0o664
-packages/StructTact/StructTact.dev/opam 2aadfd7e28957817ca65c1268f342d8d 0o664
+packages/StructTact/StructTact.dev/opam c03eb8926bd1d5177c3f6b6a262c3b7b 0o664
 packages/StructTact/StructTact.dev/descr 8e46ee5fb8ceeb8df600042de530095f 0o664
 packages/InfSeqExt/InfSeqExt.dev/url 5b8786309feea04410dd9e4b782c0d91 0o664
-packages/InfSeqExt/InfSeqExt.dev/opam c0fb362da9f682c4e7cc0ccc65b261f5 0o664
+packages/InfSeqExt/InfSeqExt.dev/opam de00589b5493014be31d217e4c3191b0 0o664
 packages/InfSeqExt/InfSeqExt.dev/descr 53e9603e241385c48aa85d7da1aa2486 0o664
