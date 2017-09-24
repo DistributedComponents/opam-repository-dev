@@ -17,7 +17,6 @@ depends: [
   "verdi" {= "8.7.dev"}
   "StructTact" {= "dev"}
   "cheerios" {= "8.7.dev"}
-  "verdi-cheerios" {= "8.7.dev"}
 ]
 
 tags: [
