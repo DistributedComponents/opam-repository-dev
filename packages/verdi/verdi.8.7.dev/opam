@@ -16,7 +16,7 @@ depends: [
   "coq" {>= "8.7" & < "8.8~"}
   "InfSeqExt" {= "dev"}
   "StructTact" {= "dev"}
-  "cheerios" {= "dev"}
+  "cheerios" {= "8.7.dev"}
 ]
 
 tags: [
@@ -32,4 +32,5 @@ authors: [
   "Steve Anton <>"
   "Karl Palmskog <>"
   "Ryan Doenges <>"
+  "Justin Adsuara <>"
 ]
