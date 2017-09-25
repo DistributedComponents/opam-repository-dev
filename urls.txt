@@ -13,6 +13,9 @@ packages/verdi-runtime/verdi-runtime.dev/descr 9ed193f31421ce0de276a40731dd3408 
 packages/verdi-raft/verdi-raft.dev/url c3de4d6d8f7c2db5c492b8c045b570d5 0o664
 packages/verdi-raft/verdi-raft.dev/opam 887a15a42b2ffe3e0af15240dc0ce2a9 0o664
 packages/verdi-raft/verdi-raft.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o664
+packages/verdi-raft/verdi-raft.8.8.dev/url c731760866c0f3d45b946fd7727dacd1 0o664
+packages/verdi-raft/verdi-raft.8.8.dev/opam f33fcef114e3f423d692640d7a28bd8c 0o664
+packages/verdi-raft/verdi-raft.8.8.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o664
 packages/verdi-raft/verdi-raft.8.7.dev/url 679b92205e791e4364c8cdf45cead920 0o664
 packages/verdi-raft/verdi-raft.8.7.dev/opam 05fe809c33f76c204cebd1774a856c6c 0o664
 packages/verdi-raft/verdi-raft.8.7.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o664
