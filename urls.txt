@@ -19,6 +19,9 @@ packages/reglang/reglang.dev/descr fd0ac860261214042d0f69498a3d6df7 0o664
 packages/cheerios/cheerios.dev/url c0768e7fe12147437b8a3b433c570e01 0o664
 packages/cheerios/cheerios.dev/opam e365899e684253821c173809a31e4039 0o664
 packages/cheerios/cheerios.dev/descr d136184bde3d4c57e260b25b59a5ddcd 0o664
+packages/cheerios/cheerios.8.8.dev/url 88615174813fd4794e05fa06cf48631f 0o664
+packages/cheerios/cheerios.8.8.dev/opam 20064d9155dcd7ce5f31216546ee28ff 0o664
+packages/cheerios/cheerios.8.8.dev/descr d136184bde3d4c57e260b25b59a5ddcd 0o664
 packages/cheerios/cheerios.8.7.dev/url f6cdbff0e1b574d2c185c9ae33442884 0o664
 packages/cheerios/cheerios.8.7.dev/opam ab091aedfab31866a8d5c169d0ffc122 0o664
 packages/cheerios/cheerios.8.7.dev/descr d136184bde3d4c57e260b25b59a5ddcd 0o664
