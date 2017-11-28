@@ -22,6 +22,12 @@ packages/verdi-raft/verdi-raft.8.7.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o
 packages/reglang/reglang.dev/url 7d3252c5672f648f1eec414398a83976 0o664
 packages/reglang/reglang.dev/opam 8677dc20afbc72f14adb1979df0c3afe 0o664
 packages/reglang/reglang.dev/descr fd0ac860261214042d0f69498a3d6df7 0o664
+packages/disel-heaps/disel-heaps.dev/url e1d27a52c83e07a9c8f6b31eb16a19d8 0o664
+packages/disel-heaps/disel-heaps.dev/opam b96f56de6c3ad94ca1724c6566a1e246 0o664
+packages/disel-heaps/disel-heaps.dev/descr b7addf1cdfdb168fe1a75967a78d457b 0o664
+packages/disel-core/disel-core.dev/url e1d27a52c83e07a9c8f6b31eb16a19d8 0o664
+packages/disel-core/disel-core.dev/opam 0f50cfe09bc8decf056dadb1242540a5 0o664
+packages/disel-core/disel-core.dev/descr cf1f34386b896acbfb6f773af932b68c 0o664
 packages/cheerios/cheerios.dev/url c0768e7fe12147437b8a3b433c570e01 0o664
 packages/cheerios/cheerios.dev/opam 88935cacf8deafcb40ce08ccd2cc9c76 0o664
 packages/cheerios/cheerios.dev/descr d136184bde3d4c57e260b25b59a5ddcd 0o664
