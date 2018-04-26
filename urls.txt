@@ -1,5 +1,5 @@
 packages/verdi/verdi.dev/url 9862349f8e3493d6bc9792fc0f798719 0o664
-packages/verdi/verdi.dev/opam 7c48aa96b5576baae2ef8e72661e0343 0o664
+packages/verdi/verdi.dev/opam 4211576191aba422442fc2fc20497947 0o664
 packages/verdi/verdi.dev/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/verdi/verdi.8.8.dev/url ba54030443c27da12001c80f72544622 0o664
 packages/verdi/verdi.8.8.dev/opam 359323ccf4a6cf094747781c0a26304b 0o664
@@ -8,10 +8,10 @@ packages/verdi/verdi.8.7.dev/url 502e970af9c5a271b62e37da73ae8820 0o664
 packages/verdi/verdi.8.7.dev/opam 1d46ed16fbf65080ec3d9bafd74191be 0o664
 packages/verdi/verdi.8.7.dev/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/verdi-runtime/verdi-runtime.dev/url 9cd3ed66f695896d07ffb4e458ab3aa0 0o664
-packages/verdi-runtime/verdi-runtime.dev/opam 69abfa151f0286163d174998dda55794 0o664
+packages/verdi-runtime/verdi-runtime.dev/opam 9caa283f3479d962f8cb26be5a6d64d1 0o664
 packages/verdi-runtime/verdi-runtime.dev/descr 9ed193f31421ce0de276a40731dd3408 0o664
 packages/verdi-raft/verdi-raft.dev/url c3de4d6d8f7c2db5c492b8c045b570d5 0o664
-packages/verdi-raft/verdi-raft.dev/opam 25d3bf6cd4b82bccb58a59313237ec2a 0o664
+packages/verdi-raft/verdi-raft.dev/opam 1e6fd7d954101c5bcd67273dbb360b4c 0o664
 packages/verdi-raft/verdi-raft.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o664
 packages/verdi-raft/verdi-raft.8.8.dev/url c731760866c0f3d45b946fd7727dacd1 0o664
 packages/verdi-raft/verdi-raft.8.8.dev/opam f33fcef114e3f423d692640d7a28bd8c 0o664
@@ -26,7 +26,7 @@ packages/disel-core/disel-core.dev/url e1d27a52c83e07a9c8f6b31eb16a19d8 0o664
 packages/disel-core/disel-core.dev/opam 0f50cfe09bc8decf056dadb1242540a5 0o664
 packages/disel-core/disel-core.dev/descr cf1f34386b896acbfb6f773af932b68c 0o664
 packages/cheerios/cheerios.dev/url c0768e7fe12147437b8a3b433c570e01 0o664
-packages/cheerios/cheerios.dev/opam 88935cacf8deafcb40ce08ccd2cc9c76 0o664
+packages/cheerios/cheerios.dev/opam 9148179169705aab0885413dc583eea7 0o664
 packages/cheerios/cheerios.dev/descr d136184bde3d4c57e260b25b59a5ddcd 0o664
 packages/cheerios/cheerios.8.8.dev/url 88615174813fd4794e05fa06cf48631f 0o664
 packages/cheerios/cheerios.8.8.dev/opam 20064d9155dcd7ce5f31216546ee28ff 0o664
@@ -35,12 +35,12 @@ packages/cheerios/cheerios.8.7.dev/url f6cdbff0e1b574d2c185c9ae33442884 0o664
 packages/cheerios/cheerios.8.7.dev/opam ab091aedfab31866a8d5c169d0ffc122 0o664
 packages/cheerios/cheerios.8.7.dev/descr d136184bde3d4c57e260b25b59a5ddcd 0o664
 packages/cheerios-runtime/cheerios-runtime.dev/url 9c567d4925986a708c3bf92a94bf4e01 0o664
-packages/cheerios-runtime/cheerios-runtime.dev/opam d8573bf38216ae8dd430e9c33bed88eb 0o664
+packages/cheerios-runtime/cheerios-runtime.dev/opam e152790c247f2640d9f811edbaeb746f 0o664
 packages/cheerios-runtime/cheerios-runtime.dev/files/cheerios-runtime.install d03d6f620769473a6e01a0dfcf573a86 0o664
 packages/cheerios-runtime/cheerios-runtime.dev/descr 0129e04c80e1f04b4e784c2aef36f74c 0o664
 packages/StructTact/StructTact.dev/url a77314932a103f542e73832b1e1f4224 0o664
-packages/StructTact/StructTact.dev/opam f3731ad7e14a02699934e40b4568839e 0o664
+packages/StructTact/StructTact.dev/opam 3441fd3140451e8111e09aba92a9343d 0o664
 packages/StructTact/StructTact.dev/descr 8e46ee5fb8ceeb8df600042de530095f 0o664
 packages/InfSeqExt/InfSeqExt.dev/url 5b8786309feea04410dd9e4b782c0d91 0o664
-packages/InfSeqExt/InfSeqExt.dev/opam 1d2f07121b297860822df0dc20b84558 0o664
+packages/InfSeqExt/InfSeqExt.dev/opam d5a2a61b461dd25041d6eeaea269e39c 0o664
 packages/InfSeqExt/InfSeqExt.dev/descr 53e9603e241385c48aa85d7da1aa2486 0o664
