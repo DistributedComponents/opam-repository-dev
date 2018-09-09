@@ -19,6 +19,9 @@ packages/verdi-raft/verdi-raft.8.8.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o
 packages/verdi-raft/verdi-raft.8.7.dev/url 679b92205e791e4364c8cdf45cead920 0o664
 packages/verdi-raft/verdi-raft.8.7.dev/opam 05fe809c33f76c204cebd1774a856c6c 0o664
 packages/verdi-raft/verdi-raft.8.7.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o664
+packages/disel/disel.dev/url 94baf6b5fbc1f0d3a1d0c2b387ccafdb 0o664
+packages/disel/disel.dev/opam e26576fc007a08d483ff8d05d0f8701c 0o664
+packages/disel/disel.dev/descr cf1f34386b896acbfb6f773af932b68c 0o664
 packages/disel-heaps/disel-heaps.dev/url e1d27a52c83e07a9c8f6b31eb16a19d8 0o664
 packages/disel-heaps/disel-heaps.dev/opam b96f56de6c3ad94ca1724c6566a1e246 0o664
 packages/disel-heaps/disel-heaps.dev/descr b7addf1cdfdb168fe1a75967a78d457b 0o664
