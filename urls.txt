@@ -1,11 +1,11 @@
 packages/verdi/verdi.dev/url 9862349f8e3493d6bc9792fc0f798719 0o664
-packages/verdi/verdi.dev/opam 21ff7a78b0bdc64ce2bf812c83f94bd6 0o664
+packages/verdi/verdi.dev/opam 3685ff9679361ec608c60b04f184bb7a 0o664
 packages/verdi/verdi.dev/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/verdi-runtime/verdi-runtime.dev/url 9cd3ed66f695896d07ffb4e458ab3aa0 0o664
 packages/verdi-runtime/verdi-runtime.dev/opam 4d7797cfbe95850988897522c6444d06 0o664
 packages/verdi-runtime/verdi-runtime.dev/descr 9ed193f31421ce0de276a40731dd3408 0o664
 packages/verdi-raft/verdi-raft.dev/url c3de4d6d8f7c2db5c492b8c045b570d5 0o664
-packages/verdi-raft/verdi-raft.dev/opam 3dc06a1fc8d80a3e20a4aa70928dabb3 0o664
+packages/verdi-raft/verdi-raft.dev/opam 411e8244bee698cdd9fbc95a9b619318 0o664
 packages/verdi-raft/verdi-raft.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o664
 packages/disel/disel.dev/url 67117fe955d22dedf73166ba91c98400 0o664
 packages/disel/disel.dev/opam 52ece9ac7af353ee53a08bd8d42fc904 0o664
