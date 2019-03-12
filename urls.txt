@@ -2,7 +2,7 @@ packages/verdi/verdi.dev/url 9862349f8e3493d6bc9792fc0f798719 0o664
 packages/verdi/verdi.dev/opam 3685ff9679361ec608c60b04f184bb7a 0o664
 packages/verdi/verdi.dev/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/verdi-runtime/verdi-runtime.dev/url 9cd3ed66f695896d07ffb4e458ab3aa0 0o664
-packages/verdi-runtime/verdi-runtime.dev/opam 4d7797cfbe95850988897522c6444d06 0o664
+packages/verdi-runtime/verdi-runtime.dev/opam 211b8f4f6b14acdb4f55e803446aa5c2 0o664
 packages/verdi-runtime/verdi-runtime.dev/descr 9ed193f31421ce0de276a40731dd3408 0o664
 packages/verdi-raft/verdi-raft.dev/url c3de4d6d8f7c2db5c492b8c045b570d5 0o664
 packages/verdi-raft/verdi-raft.dev/opam 411e8244bee698cdd9fbc95a9b619318 0o664
@@ -18,7 +18,7 @@ packages/cheerios-runtime/cheerios-runtime.dev/opam e152790c247f2640d9f811edbaeb
 packages/cheerios-runtime/cheerios-runtime.dev/files/cheerios-runtime.install d03d6f620769473a6e01a0dfcf573a86 0o664
 packages/cheerios-runtime/cheerios-runtime.dev/descr 0129e04c80e1f04b4e784c2aef36f74c 0o664
 packages/StructTact/StructTact.dev/url a77314932a103f542e73832b1e1f4224 0o664
-packages/StructTact/StructTact.dev/opam bd617f4d4816ba3719d392efcd7b4f6e 0o664
+packages/StructTact/StructTact.dev/opam 0a281c79c1e707c1fb6248a829464bcb 0o664
 packages/StructTact/StructTact.dev/descr 8e46ee5fb8ceeb8df600042de530095f 0o664
 packages/InfSeqExt/InfSeqExt.dev/url 5b8786309feea04410dd9e4b782c0d91 0o664
 packages/InfSeqExt/InfSeqExt.dev/opam 7c0dda7e59c9b8ae84eded4400c8adc4 0o664
