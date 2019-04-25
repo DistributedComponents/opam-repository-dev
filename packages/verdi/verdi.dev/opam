@@ -1,10 +1,12 @@
-opam-version: "1.2"
+opam-version: "2.0"
+version: "dev"
 maintainer: "palmskog@gmail.com"
 
 homepage: "https://github.com/uwplse/verdi"
-dev-repo: "https://github.com/uwplse/verdi.git"
+dev-repo: "git+https://github.com/uwplse/verdi.git"
 bug-reports: "https://github.com/uwplse/verdi/issues"
-license: "BSD"
+license: "BSD-2-Clause"
+synopsis: "A framework for verification of implementations of distributed systems in Coq"
 
 build: [
   [ "./configure" ]
@@ -13,24 +15,31 @@ build: [
 install: [ make "install" ]
 remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/Verdi'" ]
 depends: [
+  "ocaml"
   "coq" {>= "8.7" & < "8.10~"}
   "InfSeqExt" {= "dev"}
   "StructTact" {= "dev"}
   "cheerios" {= "dev"}
 ]
+flags: light-uninstall
 
 tags: [
   "category:Computer Science/Concurrent Systems and Protocols/Theory of concurrent systems"
   "keyword:program verification"
   "keyword:distributed algorithms"
+  "logpath:Verdi"
 ]
 authors: [
-  "James Wilcox <>"
-  "Doug Woos <>"
-  "Pavel Panchekha <>"
-  "Zachary Tatlock <>"
-  "Steve Anton <>"
-  "Karl Palmskog <>"
-  "Ryan Doenges <>"
-  "Justin Adsuara <>"
+  "James R. Wilcox"
+  "Doug Woos"
+  "Pavel Panchekha"
+  "Zachary Tatlock"
+  "Steve Anton"
+  "Karl Palmskog"
+  "Ryan Doenges"
+  "Justin Adsuara"
 ]
+
+url {
+  src: "git+https://github.com/uwplse/verdi.git#master"
+}
