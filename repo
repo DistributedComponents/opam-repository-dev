@@ -1,4 +1,4 @@
 opam-version: "2.0"
 upstream:
   "https://github.com/DistributedComponents/opam-repository-dev/tree/master"
-stamp: "1c69a1db"
+stamp: "9f316eef"
